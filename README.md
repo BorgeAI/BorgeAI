@@ -1,6 +1,6 @@
 ### AI-Agent Swarm
 
-This project integrates Python and artificial intelligence to enable multiple AI agents to collaborate, accomplishing complex data processing tasks that are beyond the capabilities of a single AI. In the economic field, considering that DeFi is a jungle, a labyrinth in which new users find it very difficult to find their way; together with my brother I am creating an AI agent that will help users move more easily in decentralized finance. Algorithms search for the best returns among various dapps and AI agents publish them to X.
+This project integrates Python and artificial intelligence to enable multiple AI agents to collaborate, accomplishing complex data processing tasks that are beyond the capabilities of a single AI. In the economic field, considering that DeFi is a jungle, a labyrinth in which new users find it very difficult to find their way; together with my brother I am creating an AI agent that will help users move more easily in decentralized finance. Algorithms search for the best yield among various dapps and AI agents publish them to X.
 Borge will be the main agent around whom the other agents gravitate; each of them will have a different role.
 
 #### Prerequisites
